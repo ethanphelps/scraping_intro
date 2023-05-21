@@ -1,0 +1,15 @@
+pyproject.toml
+setup.py
+scraping_intro.egg-info/PKG-INFO
+scraping_intro.egg-info/SOURCES.txt
+scraping_intro.egg-info/dependency_links.txt
+scraping_intro.egg-info/top_level.txt
+wikiSpider/__init__.py
+wikiSpider/wikiSpider/__init__.py
+wikiSpider/wikiSpider/items.py
+wikiSpider/wikiSpider/middlewares.py
+wikiSpider/wikiSpider/pipelines.py
+wikiSpider/wikiSpider/settings.py
+wikiSpider/wikiSpider/spiders/__init__.py
+wikiSpider/wikiSpider/spiders/article.py
+wikiSpider/wikiSpider/spiders/articles.py
